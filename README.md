@@ -66,9 +66,11 @@
 <h3 align="center">🌐 Redes Sociais:</h3>
 
 <div align="center">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white height="35")](https://www.linkedin.com/in/lucas-dias-609844253/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white height="35")](https://www.instagram.com/lucass_dias04/)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge height="35")](https:https://discord.com/channels/1118191447242461235/1118191448370720832)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/lucas-dias-609844253/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+(https://www.instagram.com/lucass_dias04/)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https:https://discord.com/channels/1118191447242461235/1118191448370720832)
 </div>
 
 ###

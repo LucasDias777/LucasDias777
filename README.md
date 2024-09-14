@@ -66,21 +66,21 @@
 <h3 align="center">🌐 Redes Sociais:</h3>
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
         <a href="https://www.linkedin.com/in/lucas-dias-609844253/" target="_blank">
           <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
       </td>
-      <td style="width: 15px;"></td> <!-- Espaço entre os ícones -->
-      <td>
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; width: 10px;"></td> <!-- Espaço entre os ícones -->
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
         <a href="https://www.instagram.com/lucass_dias04/" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
         </a>
       </td>
-      <td style="width: 15px;"></td> <!-- Espaço entre os ícones -->
-      <td>
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; width: 10px;"></td> <!-- Espaço entre os ícones -->
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
         <a href="https://discord.com/channels/1118191447242461235/1118191448370720832" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
         </a>

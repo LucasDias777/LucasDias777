@@ -60,30 +60,18 @@
 <h3 align="center">🌐 Redes Sociais:</h3>
 
 <div align="center">
-  <table style="border-spacing: 10px;"> <!-- Ajuste o espaçamento entre os ícones -->
-    <tr>
-      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
-        <a href="https://www.linkedin.com/in/lucas-dias-609844253/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-        </a>
-      </td>
-      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
-        <a href="https://www.instagram.com/lucass_dias04/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-        </a>
-      </td>
-      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
-        <a href="https://discord.com/channels/1118191447242461235/1118191448370720832" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-        </a>
-      </td>
-      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
-        <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/lucas-dias-609844253/" target="_blank" style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/lucass_dias04/" target="_blank" style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/channels/1118191447242461235/1118191448370720832" target="_blank" style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank" style="background-color: rgba(0, 0, 0, 0.1); padding: 5px; margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
 
 

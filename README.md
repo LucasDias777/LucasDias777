@@ -77,4 +77,4 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" style="border-radius: 5px; background-color: rgba(0, 0, 0, 0.1);"/>
   </a>
 </div>
-###
+

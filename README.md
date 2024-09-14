@@ -62,19 +62,19 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lucas-dias-609844253/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" style="margin-right: 15px; border-radius: 5px; background-color: rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"/>
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/lucass_dias04/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" style="margin-right: 15px; border-radius: 5px; background-color: rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"/>
   </a>
   <!-- Discord -->
   <a href="https://discord.com/channels/1118191447242461235/1118191448370720832" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" style="margin-right: 15px; border-radius: 5px; background-color: rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"/>
   </a>
   <!-- Gmail -->
   <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" style="border-radius: 5px; background-color: rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"/>
   </a>
 </div>
 

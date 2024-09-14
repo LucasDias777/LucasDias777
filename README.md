@@ -57,13 +57,7 @@
 
 ###
 
-<h3 align="left">⚡ Contatos:</h3>
-
-- 📫 Como me encontrar: **lucas.santos.04@edu.unipar.br**.
-
-###
-
-<h3 align="center">🌐 Redes Sociais:</h3>
+<h3 align="center">🌐 Social Mídia:</h3>
 
 <div align="center">
   <table style="border-spacing: 10px;"> <!-- Ajuste o espaçamento entre os ícones -->
@@ -83,9 +77,15 @@
           <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
         </a>
       </td>
+      <td style="background-color: rgba(0, 0, 0, 0.1); padding: 5px;">
+        <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 

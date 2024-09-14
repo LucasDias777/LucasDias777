@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="center">🌐 Social Mídia:</h3>
+<h3 align="center">🌐 Redes Sociais:</h3>
 
 <div align="center">
   <table style="border-spacing: 10px;"> <!-- Ajuste o espaçamento entre os ícones -->

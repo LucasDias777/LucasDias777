@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="34" viewBox="0 0 360 34" role="img" aria-label="Olá, sou Lucas Dias">
+  <style>
+    .name { font: 700 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
+    @media (prefers-color-scheme: dark) { .name { fill: #e6edf3; } }
+  </style>
+  <text class="name" x="180" y="25" text-anchor="middle">Olá, sou Lucas Dias 👋</text>
+</svg>
